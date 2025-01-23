@@ -32,5 +32,4 @@ int32_t main(int32_t argc, char **argv)
 {
     return 0;
 }
-//origin	git@github.com:parthnpatel20/rtes_rpi.git (fetch)
-//origin	git@github.com:parthnpatel20/rtes_rpi.git (push)
+
